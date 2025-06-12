@@ -1,1 +1,1 @@
-console.log('Detailed setup instructions and code in description: https://www.youtube.com/watch?v=dQw4w9WgXcQ')
+console.log('Detailed setup instructions and code in description: https://youtu.be/YgJejR5Qpe0?si=PO3mLrTsMcEUtxsM')
